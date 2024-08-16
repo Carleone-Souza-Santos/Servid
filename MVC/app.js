@@ -1,10 +1,10 @@
 // app.js
 const express = require('express');
 const path = require('path');
-const userRoutes = require('./routes/userRoutes');
+const userRoutes = require('./routers/userRoutes');
 
 const app = express();
-const PORT = 3000;
+const PORT = 4000;
 
 // Configurar o EJS como view engine
 app.set('view engine', 'ejs');

@@ -27,7 +27,7 @@ Execute o comando npm install para instalar todas as dependências necessárias.
 Execução da Aplicação:
 
 No diretório do projeto, execute node app.js para iniciar o servidor.
-Acesse a aplicação em http://localhost:3000/users
+Acesse a aplicação em http://localhost:4000/users
 
 Tecnologias Utilizadas
 Node.js
