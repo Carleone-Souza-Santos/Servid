@@ -1,4 +1,4 @@
-// controllers/userController.js
+
 const userModel = require('../models/userModel');
 
 function listUsers(req, res) {
